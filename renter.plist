@@ -8,7 +8,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>title</key>
-				<string>租客</string>
+				<string>帕拉斯</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>bundle-version</key>
@@ -20,7 +20,7 @@
 			<array>
 				<dict>
 					<key>url</key>
-					<string>http://192.168.50.7:8080/MobBsIOS.ipa</string>
+					<string>https://raw.githubusercontent.com/zhaofucheng1129/TestIPADownload/master/MobBsIOS.ipa</string>
 					<key>kind</key>
 					<string>software-package</string>
 				</dict>
