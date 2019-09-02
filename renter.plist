@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>metadata</key>
+			<dict>
+				<key>title</key>
+				<string>租客</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>bundle-version</key>
+				<string>6.6.9</string>
+				<key>bundle-identifier</key>
+				<string>bs.mgzf.com.mogobs.MobBsIOS </string>
+			</dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>url</key>
+					<string>http://192.168.50.7:8080/MobBsIOS.ipa</string>
+					<key>kind</key>
+					<string>software-package</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
